@@ -1,2 +1,2 @@
-# nino500.gitHub.io
+# nino500.github.io
 hexo blog
